@@ -1,2 +1,2 @@
-# Ideas
-A file to store new ideas
+Idea 01
+this idea represents nothing, i wanna die
